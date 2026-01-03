@@ -4,6 +4,6 @@ Retrieve machine state information about CPU time, memory usage, etc.
 
 |---------+----------------------------------------------------|
 | source  | git:https://codeberg.org/Shinmera/machine-state.git |
-| commit  | cfe005d                                             |
+| commit  | 6c119f9                                             |
 | systems | machine-state                                       |
 |---------+----------------------------------------------------|
